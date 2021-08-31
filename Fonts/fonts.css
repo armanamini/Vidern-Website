@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'B Titr';
+    src: url('BTitrBold.eot');
+    src: url('BTitrBold.eot?#iefix') format('embedded-opentype'),
+        url('BTitrBold.woff2') format('woff2'),
+        url('BTitrBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'B Mitra';
+    src: url('BMitra.eot');
+    src: url('BMitra.eot?#iefix') format('embedded-opentype'),
+        url('BMitra.woff2') format('woff2'),
+        url('BMitra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'B Kamran';
+    src: url('BKamran.eot');
+    src: url('BKamran.eot?#iefix') format('embedded-opentype'),
+        url('BKamran.woff2') format('woff2'),
+        url('BKamran.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Websima';
+    src: url('WebsimaRohanRound-Regular.eot');
+    src: url('WebsimaRohanRound-Regular.eot') format('embedded-opentype'),
+        url('WebsimaRohanRound-Regular.woff2') format('woff2'),
+        url('WebsimaRohanRound-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
